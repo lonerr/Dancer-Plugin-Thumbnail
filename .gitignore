@@ -3,6 +3,7 @@ inc
 Makefile
 Makefile.old
 MANIFEST.bak
+META.*
 MYMETA.*
 pm_to_blib
 tstatd.db
