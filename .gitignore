@@ -1,0 +1,13 @@
+blib
+inc
+Makefile
+Makefile.old
+MANIFEST.bak
+MYMETA.*
+pm_to_blib
+tstatd.db
+t/log
+*.swp
+*.tar
+*.tar.gz
+
